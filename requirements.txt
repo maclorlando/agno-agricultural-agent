@@ -1,0 +1,22 @@
+# Core AI agent framework
+agno
+
+# Telegram bot SDK
+python-telegram-bot==20.0
+
+# OpenAI LLM and embedding support
+openai
+
+# Vector DB + embeddings
+lancedb
+sqlalchemy
+
+# Optional tools for research & finance
+duckduckgo-search
+yfinance
+
+# FastAPI playground (optional)
+fastapi[standard]
+
+# Env var loader
+python-dotenv
